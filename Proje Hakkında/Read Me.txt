@@ -1,0 +1,9 @@
+Bu Proje Yotube Arin Yazilim Kanalından Yararlanılmıştır.
+
+Kulandığım Kaynaklar
+1)https://reactjs.org/
+2)https://react-bootstrap.github.io/
+
+Kullandığım Extra Paketler
+1)npm i uuid (id için)
+2)npm install react-bootstrap bootstrap
