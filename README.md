@@ -1,3 +1,13 @@
+![Anasayfa](https://user-images.githubusercontent.com/98158194/182030511-c4b77a1f-fea8-4ef5-b2c9-78fc2f480eb8.png)
+![Local Storage](https://user-images.githubusercontent.com/98158194/182030512-c86b6d7a-a12e-4289-8d62-c34b05c052d8.png)
+![Modal(çalışan ekleme)](https://user-images.githubusercontent.com/98158194/182030514-e4a19f41-c1dd-448e-afe1-7805bdf98d72.png)
+![Modal(Edit)](https://user-images.githubusercontent.com/98158194/182030516-11d4de8b-3a58-4caa-bd8f-22724992ebfe.png)
+![Overlay](https://user-images.githubusercontent.com/98158194/182030518-4953b69f-be76-403f-884c-a2a2c00869aa.png)
+![Alert](https://user-images.githubusercontent.com/98158194/182030521-7f7d07d9-8a84-4f87-9bec-aa07abfffda8.png)
+![Anasayfa 2](https://user-images.githubusercontent.com/98158194/182030522-f06c4d72-7b0f-4330-b1cb-e4a517c291f4.png)
+![Anasayfa 3](https://user-images.githubusercontent.com/98158194/182030524-b3c64baf-1572-4abb-8b42-18dced89f4eb.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
